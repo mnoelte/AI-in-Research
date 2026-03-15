@@ -4,7 +4,16 @@ Download the PDF 'URLs-for_AI-in-Research.pdf' - it contains URLs you might need
 
 ## Glossary for the Workshop 'AI in Research'
 - See the PDF: https://github.com/mnoelte/AI-in-Research/blob/main/Glossary_AI-in-Research.pdf
+_______________________________________________________________
+&nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 _______________________________________________________________
 # OLD Material
 ## Little AI Glossary for this workshop
