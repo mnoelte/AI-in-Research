@@ -3,7 +3,7 @@
 Download the PDF 'URLs-for_AI-in-Research.pdf' - it contains URLs you might need for the workshop.
 
 ## Glossary for the Workshop 'AI in Research'
-- See the PDF: [Glossary_AI-in-Research.pdf](blob/main/Glossary_AI-in-Research.pdf)
+- See the PDF: [Glossary_AI-in-Research.pdf](Glossary_AI-in-Research.pdf)
 
 _______________________________________________________________
 &nbsp;
