@@ -2,6 +2,11 @@
 ## Material for the workshop 'AI in Research'
 Download the PDF 'URLs-for_AI-in-Research.pdf' - it contains URLs you might need for the workshop.
 
+## Glossary for the Workshop 'AI in Research'
+- See the PDF: https://github.com/mnoelte/AI-in-Research/blob/main/Glossary_AI-in-Research.pdf
+
+_______________________________________________________________
+# OLD Material
 ## Little AI Glossary for this workshop
 
 1. **Training**: The process of teaching an AI model using data to improve its performance.
