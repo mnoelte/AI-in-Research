@@ -1,6 +1,7 @@
 # AI in Research
 ## Material for the workshop 'AI in Research'
-Download the PDF 'URLs-for_AI-in-Research.pdf' - it contains URLs you might need for the workshop.
+- Padlet with further information: https://padlet.com/SuUB_Bremen/spp-2289-hetero-aggregates-j9ez2lr2qpog29x8
+- Download the PDF 'URLs-for_AI-in-Research.pdf' - it contains URLs you might need for the workshop.
 
 ## Glossary for the Workshop 'AI in Research'
 - See the PDF: [Glossary_AI-in-Research.pdf](Glossary_AI-in-Research.pdf)
